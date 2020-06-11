@@ -1,0 +1,39 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    background: gray;
+    margin-left: 400px;
+}
+#screen{
+    width: 300px;
+    height: 44px;
+    margin-left:45px;
+    margin-top: 28px;
+    pointer-events: none;
+
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 25px;
+    background-color: rgb(182, 180, 204);
+    border-color: navy;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: orangered;
+}
+.tt{
+    font-size: 15px;
+    font-weight: 9px;
+    margin-left: 550px;
+    margin-bottom: 20px
+}
+.n{
+    float: right;
+    margin-right: 22px;
+    font-size: 15px;
+
+}
+    
